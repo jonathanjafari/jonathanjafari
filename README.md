@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan Jafari 👋
+# Hi, I'm Jonathan Jafari, DO 👋
 
 **Physician (DO) → Clinical/Health Informatician**  
 MS Applied Health Informatics @ Stony Brook • Long Island, NY
@@ -17,7 +17,7 @@ I build practical ML tools that make EHRs faster and clinical decisions clearer.
 Clinical decision support, EHR optimization, telehealth analytics, clinical NLP.
 
 ## Connect
-- 🔗 LinkedIn: <add link>
-- 📫 Email: <add email>
+- 🔗 LinkedIn: <https://www.linkedin.com/in/jonathanjafari/>
+- 📫 Email: <jjaf488@gmail.com>
 
 > “Ship small, validate early, improve outcomes.”
