@@ -2,6 +2,7 @@
 Welcome to my GitHub profile!
 
 **Jonathan Jafari, DO — Clinical/Health Informatics** · Master’s in Applied Health Informatics at Stony Brook University · Long Island, NY (Eastern Time)  
+
 **Open to:** Clinical Informatics • Clinical Data Science • Decision-support product roles (remote/hybrid)
 
 [![Email](https://img.shields.io/badge/Email-jjaf488%40gmail.com-informational)](mailto:jjaf488@gmail.com)
