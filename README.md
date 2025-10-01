@@ -1,8 +1,8 @@
 # Greetings! ✨  
 Welcome to my GitHub profile!
 
-**Jonathan Jafari, DO — Clinical/Health Informatics** · MS AHI @ Stony Brook · Long Island, NY (ET)  
-**Open to:** Clinical Informatics • Clinical Data Science • CDS/AI Product roles (remote/hybrid)
+**Jonathan Jafari, DO — Clinical/Health Informatics** · Master’s in Applied Health Informatics at Stony Brook University · Long Island, NY (Eastern Time)  
+**Open to:** Clinical Informatics • Clinical Data Science • Decision-support product roles (remote/hybrid)
 
 [![Email](https://img.shields.io/badge/Email-jjaf488%40gmail.com-informational)](mailto:jjaf488@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanjafari-blue)](https://www.linkedin.com/in/jonathanjafari/)
@@ -11,33 +11,33 @@ Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
 - Physician (DO) pivoting to **Clinical/Health Informatics**
-- 6+ yrs clinical reviewer / physician-advisor (medico-legal case reviews, medical necessity, DRG/appeals)
-- **Building practical ML tools** that make **EHRs faster** and **decisions clearer**
+- 6+ years as a clinical reviewer / physician advisor (medico-legal case reviews, medical necessity, inpatient reimbursement appeals)
+- **Building practical machine-learning tools** that make **electronic health records faster** and **decisions clearer**
 
 ## 🏥 Professional Interests
-- Clinical decision support & EHR optimization  
+- Clinical decision support & electronic health record optimization  
 - Healthcare data management & analytics  
-- Coding vocabularies & interoperability (SNOMED, ICD-10, LOINC, RxNorm, FHIR)
+- Clinical terminology and interoperability standards
 
 ## 🛠️ Skills & Tools
-- **Data/ML:** Python, pandas, scikit-learn, SQL  
-- **Apps/Cloud:** Streamlit, GCP, OCI, *Docker (learning)*  
-- **Healthcare:** EMR/EHR workflows, chart review, documentation quality  
+- **Data/ML:** Python, pandas, scikit-learn, SQL (databases)  
+- **Apps/Cloud:** Streamlit, Google Cloud, Oracle Cloud, *Docker (learning)*  
+- **Healthcare:** electronic health record workflows, chart review, documentation quality  
 - **Also:** clear READMEs, lightweight UIs, stakeholder-friendly explanations
 
 ## ⭐ Featured Projects
 | Project | What it is | Stack |
 |---|---|---|
-| **Medical Codex Pipeline** — maps/searches SNOMED CT • ICD-10 • HCPCS • LOINC • RxNorm • NPI. **Repo:** [medical-codex-pipeline](https://github.com/jonathanjafari/medical-codex-pipeline) | Standardizes vocabularies to clean CSVs with validation + logging | `Python` `pandas` `regex` |
-| **VM Lifecycle on GCP & OCI** — tutorial with Loom demos. **Repo:** [gcp_oci_vm_start](https://github.com/jonathanjafari/gcp_oci_vm_start) | Create → start → stop → terminate → cleanup on GCP/OCI; pitfalls & checklists | `Cloud` `GCP` `OCI` |
+| **Medical Codex Pipeline** — maps and searches standard clinical code sets (diagnoses, procedures, labs, medications, provider IDs). **Repo:** [medical-codex-pipeline](https://github.com/jonathanjafari/medical-codex-pipeline) | Standardizes vocabularies to clean CSVs with validation + logging | `Python` `pandas` `regex` |
+| **Virtual Machine Lifecycle on Google Cloud & Oracle Cloud** — tutorial with short demo videos. **Repo:** [gcp_oci_vm_start](https://github.com/jonathanjafari/gcp_oci_vm_start) | Create → start → stop → terminate → cleanup; pitfalls & checklists | `Cloud` `Google Cloud` `Oracle Cloud` |
 
-*Planned (in progress):* **Sepsis Risk Predictor** (Streamlit, explainable scoring) • **Denial Prediction** (SHAP-explained models). Repos coming soon.
+*Planned (in progress):* **Sepsis Risk Predictor** (Streamlit, explainable scoring) • **Denial Prediction** (explainable models for payer/appeals strategy). Repos coming soon.
 
 ## 🌱 Currently Learning
 **Open-Source Cloud Computing (Cloud Foundations)**  
-- Linux/CLI, server setup/administration, **Git/GitHub**, security best practices, **DNS**  
-- Outcome: stand up & harden a Linux server, containerize a web app, manage domains/HTTPS, deploy to a cloud VM
+- Linux and the command line, server setup/administration, Git/GitHub, security best practices, and the Domain Name System  
+- Outcome: stand up and harden a Linux server, containerize a web app, manage domains and secure connections, and deploy to a cloud virtual machine
 
 **Data Science for Healthcare (Python & R)**  
-- Stats + analytics tooling in **Python** and **R**; overview of healthcare-oriented ML  
-- Final project: choose a healthcare dataset; build a cleaning pipeline, EDA visuals, and a simple analysis/model with a short write-up
+- Statistics and analytics tooling in Python and R; overview of healthcare-oriented machine learning  
+- Final project: choose a healthcare dataset; build a cleaning pipeline, exploratory visuals, and a simple analysis/model with a short write-up
