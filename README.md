@@ -1,7 +1,7 @@
 # Greetings! ✨  
 Welcome to my GitHub profile!
 
-**Jonathan Jafari, DO — Clinical/Health Informatics** · Master’s in Applied Health Informatics at Stony Brook University · Long Island, NY (Eastern Time)  
+**Jonathan Jafari, DO — Clinical/Health Informatics** · Master’s in Applied Health Informatics at Stony Brook University · Long Island, NY 
 
 **Open to:** Clinical Informatics • Clinical Data Science • Decision-support product roles (remote/hybrid)
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
 - Physician (DO) pivoting to **Clinical/Health Informatics**
-- 6+ years as a clinical reviewer / physician advisor (medico-legal case reviews, medical necessity, inpatient reimbursement appeals)
+- 7+ years as a clinical reviewer/physician advisor (medico-legal case reviews, medical necessity, inpatient reimbursement appeals)
 - **Building practical machine-learning tools** that make **electronic health records faster** and **decisions clearer**
 
 ## 🏥 Professional Interests
@@ -21,8 +21,8 @@ Welcome to my GitHub profile!
 - Clinical terminology and interoperability standards
 
 ## 🛠️ Skills & Tools
-- **Data/ML:** Python, pandas, scikit-learn, SQL (databases)  
-- **Apps/Cloud:** Streamlit, Google Cloud, Oracle Cloud, *Docker (learning)*  
+- **Data/ML:** Python, pandas, SQL (databases)  
+- **Apps/Cloud:** Streamlit, Google Cloud, Oracle Cloud  
 - **Healthcare:** electronic health record workflows, chart review, documentation quality  
 - **Also:** clear READMEs, lightweight UIs, stakeholder-friendly explanations
 
