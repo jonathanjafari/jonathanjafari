@@ -32,7 +32,8 @@ Welcome to my GitHub profile!
 | **Medical Codex Pipeline** — maps and searches standard clinical code sets (diagnoses, procedures, labs, medications, provider IDs). **Repo:** [medical-codex-pipeline](https://github.com/jonathanjafari/medical-codex-pipeline) | Standardizes vocabularies to clean CSVs with validation + logging | `Python` `pandas` `regex` |
 | **Virtual Machine Lifecycle on Google Cloud & Oracle Cloud** — tutorial with short demo videos. **Repo:** [gcp_oci_vm_start](https://github.com/jonathanjafari/gcp_oci_vm_start) | Create → start → stop → terminate → cleanup; pitfalls & checklists | `Cloud` `Google Cloud` `Oracle Cloud` |
 
-*Planned (in progress):* **Sepsis Risk Predictor** (Streamlit, explainable scoring) • **Denial Prediction** (explainable models for payer/appeals strategy). Repos coming soon.
+*Planned (in progress):* **Sepsis Risk Predictor** (Streamlit, explainable scoring)
+**Denial Prediction** (explainable models for payer/appeals strategy). Repos coming soon.
 
 ## 🌱 Currently Learning
 **Open-Source Cloud Computing (Cloud Foundations)**  
