@@ -37,10 +37,6 @@ Welcome to my GitHub profile!
 - Stats + analytics tooling in **Python** and **R**; overview of healthcare-oriented ML  
 - Final project: choose a healthcare dataset; build a cleaning pipeline, EDA visuals, and a simple analysis/model with a short write-up
 
-## 🎮 Fun Facts
-- RC aircraft tinkerer ✈️ (gas + electric), weekend field flights  
-- Occasional gadget nerd (yes, I optimize my Apple setups)
-
 ## 📫 Connect
 [![Email](https://img.shields.io/badge/Email-jjaf488%40gmail.com-informational)](mailto:jjaf488@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanjafari-blue)](https://www.linkedin.com/in/jonathanjafari/)
