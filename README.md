@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 [![Email](https://img.shields.io/badge/Email-jjaf488%40gmail.com-informational)](https://mail.google.com/mail/?view=cm&to=jjaf488@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanjafari-blue)](https://www.linkedin.com/in/jonathanjafari/)
 [![GitHub](https://img.shields.io/badge/GitHub-jonathanjafari-black)](https://github.com/jonathanjafari)
-[![Resume](https://img.shields.io/badge/Resume-PDF-success)](resume/Jafari%20Jonathan%208-26-25%20Resume%20PDF.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-success)](resume/Jafari%20Jonathan%2010-2-25%20Resume.pdf)
 
 ## 🙋‍♂️ About Me
 - Physician (DO) pivoting to **Clinical/Health Informatics**
