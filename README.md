@@ -38,3 +38,13 @@ Built collaboratively with the HHA 502 team. Uses fictional information; the pro
 |---|---|---|
 | [Medical Codex Pipeline](https://github.com/jonathanjafari/medical-codex-pipeline) | Maps and searches standard clinical code sets; standardizes vocabularies to clean CSVs with validation and logging | Python, pandas, regex |
 | [Virtual Machine Lifecycle on Google Cloud & Oracle Cloud](https://github.com/jonathanjafari/gcp_oci_vm_start) | Tutorial with short demo videos covering VM creation, starting, stopping, termination, and cleanup | Google Cloud, Oracle Cloud |
+
+
+### Sepsis Risk Predictor — Clinician View
+*Independent project | Python, Streamlit, pandas, scikit-learn*
+
+Built an interactive Streamlit prototype that estimates sepsis risk from vital signs and laboratory inputs. Combined a calibrated Random Forest model with rule-based alerts and presented risk probabilities, risk tiers, MAP and qSOFA calculations, and suggested next steps in a clinician-facing interface. The project demonstrates machine-learning integration and clinical decision-support interface design.
+
+Educational prototype only; not for clinical use.
+
+[View repository and setup instructions](https://github.com/jonathanjafari/sepsis_project)
