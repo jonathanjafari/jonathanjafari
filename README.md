@@ -2,10 +2,16 @@
 Welcome to my GitHub profile!
 
 
+
+
 **Jonathan Jafari, DO — Clinical/Health Informatics** · Master’s in Applied Health Informatics at Stony Brook University · Long Island, NY 
 
 
+
+
 **Open to:** Clinical Informatics • Clinical Data Science • Decision-support product roles (remote/hybrid)
+
+
 
 
 [![Email](https://img.shields.io/badge/Email-jjaf488%40gmail.com-informational)](https://mail.google.com/mail/?view=cm&to=jjaf488@gmail.com)
@@ -14,16 +20,22 @@ Welcome to my GitHub profile!
 [![Resume](https://img.shields.io/badge/Resume-PDF-success)](resume/Jafari%20Jonathan%2010-2-25%20Resume.pdf)
 
 
+
+
 ## 🙋‍♂️ About Me
 - Physician (DO) pivoting to **Clinical/Health Informatics**
 - 7+ years as a clinical reviewer/physician advisor (medico-legal case reviews, medical necessity, inpatient reimbursement appeals)
 - **Building practical machine-learning tools** that make **electronic health records faster** and **decisions clearer**
 
 
+
+
 ## 🏥 Professional Interests
 - Clinical decision support & electronic health record optimization  
 - Healthcare data management & analytics  
 - Clinical terminology and interoperability standards
+
+
 
 
 ## 🛠️ Skills & Tools
@@ -33,14 +45,22 @@ Welcome to my GitHub profile!
 - **Also:** clear READMEs, lightweight UIs, stakeholder-friendly explanations
 
 
+
+
 ## ⭐ Featured Projects
 
-### Appeal Assist — HHA 502 team project
-An educational prototype that helps patients understand a fictional insurance denial and prepare an appeal draft. **My role: Product Owner**, contributing patient-journey design, user stories, and desktop/mobile review.
+
+### Appeal Assist — Insurance Denial Appeal Prototype
+*Product Owner | HHA 502 Team Project, Stony Brook University*
+
+Collaborated on an educational app that helps patients understand a fictional insurance denial and prepare an appeal draft. As Product Owner, led patient-journey mapping, user-story development, and product review. Applied clinical and insurance-appeals experience to assess accuracy, clarity, privacy safeguards, and usability. Conducted desktop and mobile testing and documented improvements for the team.
+
 
 [Try the app](https://claude.ai/artifact/VR9AuDDJbbA6e795AfNhYW) · [Team repository](https://github.com/tareq-stonybrook/vibe_coding) · [Project board](https://github.com/users/tareq-stonybrook/projects/1) · [Patient journey and testing](https://github.com/tareq-stonybrook/vibe_coding/issues/15)
 
+
 Built collaboratively with the HHA 502 team. Uses fictional information; the prototype does not submit appeals.
+
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -48,7 +68,11 @@ Built collaboratively with the HHA 502 team. Uses fictional information; the pro
 | **Virtual Machine Lifecycle on Google Cloud & Oracle Cloud** — tutorial with short demo videos. **Repo:** [gcp_oci_vm_start](https://github.com/jonathanjafari/gcp_oci_vm_start) | Create → start → stop → terminate → cleanup; pitfalls & checklists | `Cloud` `Google Cloud` `Oracle Cloud` |
 
 
+
+
 ### Planned (in progress)
+
+
 
 
 - [ ] **Sepsis Risk Predictor** — Streamlit; explainable scoring
