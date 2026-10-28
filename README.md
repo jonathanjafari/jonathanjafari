@@ -48,3 +48,13 @@ Built an interactive Streamlit prototype that estimates sepsis risk from vital s
 Educational prototype only; not for clinical use.
 
 [View repository and setup instructions](https://github.com/jonathanjafari/sepsis_project)
+
+
+### SBU Sports Analytics — Athlete Performance Analysis
+*Team Contributor | HHA 507, Stony Brook University | 2025*
+
+Contributed to a team analysis of athlete performance and sensor data using Python, SQL, pandas, and MySQL. Developed data-exploration queries to examine dataset structure, missing identifiers, athlete and team coverage, and metrics across data sources. Collaborated with Amy Kim on the development and refinement of rule-based flagging logic for changes in modified Reactive Strength Index (mRSI), jump height, and propulsive net impulse relative to athlete baselines and comparison values.
+
+The project combines data-quality assessment, performance analysis, visualization, and research-informed flags for review. These flags are exploratory indicators, not validated diagnoses of fatigue or injury risk.
+
+[Team repository](https://github.com/amapuyan/SBU-Sports-Analytics-Project-2025) · [Data exploration contribution](https://github.com/amapuyan/SBU-Sports-Analytics-Project-2025/blob/main/part1_exploration.py) · [Collaborative flagging logic](https://github.com/amapuyan/SBU-Sports-Analytics-Project-2025/blob/main/part4_flags.py)
