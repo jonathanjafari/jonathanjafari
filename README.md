@@ -8,7 +8,7 @@
 
 ## About Me
 - Physician (DO) focused on clinical and health informatics
-- 7+ years as a clinical reviewer/physician advisor, including medico-legal case reviews, medical necessity, and inpatient reimbursement appeals
+- 8+ years as a clinical reviewer/physician advisor, including medico-legal case reviews, medical necessity, and inpatient reimbursement appeals
 
 ## Professional Interests
 - Clinical decision support and electronic health record optimization
